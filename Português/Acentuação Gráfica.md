@@ -1,0 +1,31 @@
+- **Oxítonas** 
+	- A sílaba tônica fica no final da palavra.
+	- Exemplos sem acento: **bambu**, **uruçu**, **ruim**, **comer**.
+	- Exemplos com acento: **café**, **avô**, **cipó**.
+	- **Regras de acentuação** 
+		- Terminadas em
+			- **A**, **AS**: sofá, cajá, parar.
+			- **E**, **ES**: café, você, freguês.
+			- **O**, **OS**: avô, jiló, paletó.
+			- **EM**, **ENS**: também, armazém, parabéns.
+			- **Ditongos abertos** (**éi**, **éu**, **ói**, seguidos ou não de **s**): papéis, chapéu, herói, lençóis.
+		- **Casos especiais**
+			- **Vogais i e u**: recebem acento quando aparecem sozinhas (ou seguidas de _s_) na última sílaba, formando hiato: **baú**, **açaí**.
+- **Paroxítonas**
+	- Por serem a maioria, a regra funciona pelo princípio da exceção: nós **não** acentuamos as paroxítonas que terminam igual às oxítonas (_A, E, O, EM, ENS_).
+	- Terminadas em:
+		- **R**, **L**, **N**, **X**: revólver, fácil, hífen, tórax.
+		- **PS**: fórceps, bíceps.
+		- **UM**, **UNS**: álbum, álbuns.
+		- **OM**, **ONS**: ión, prótons.
+		- **US**, **I**, **IS**: vírus, júri, lápis.
+		- **Ã**, **ÃS**, **ÃO**, **ÃOS**: ímã, órfãs, órgão, órgãos.
+		- **Ditongos crescentes ou decrescentes** (seguidos ou não de S): história, cárie, colégio, fáceis.
+	- **Ditongos abertos (EI, OI)**: perderam o acento.
+		- Exemplos: **ideia**, **colmeia**, **heroico**, **jiboia**.
+	- - **Vogais dobradas (EE, OO)**: perderam o acento. 
+		- Exemplos: **veem**, **leem**, **enjoo**, **voo**.
+	- **I e U tônicos após ditongo**: perderam o acento se estiverem na posição de paroxítona. 
+		- Exemplo: **feiura**, **baiuca**.
+	- **Macete para memorizar**
+		- Uma forma clássica de lembrar as principais terminações de paroxítonas que levam acento é a palavra **ROUUXINOL** (reunindo as letras _R, O-N-S, U-S, X, I, N, O-M, L_).
