@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Planeta terra.md",
+                "file": "Raciocínio Lógico/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planeta terra"
+              "title": "Sem título"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geografia/Planeta terra.md",
+                "file": "Raciocínio Lógico/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geografia/Planeta terra.md",
+                "file": "Raciocínio Lógico/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geografia/Planeta terra.md",
+                "file": "Raciocínio Lógico/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +188,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7592d787aeea9939",
+  "active": "8dbaabd55c5c88bd",
   "lastOpenFiles": [
+    "Pasted image 20260826152611.png",
+    "Raciocínio Lógico/Sem título.md",
     "Geografia/Planeta terra.md",
+    "Raciocínio Lógico",
+    "Pasted image 20260826152655.png",
+    "Pasted image 20260826152439.png",
+    "Pasted image 20260826151752.png",
+    "Português/OXÍTONAS.md",
+    "Português",
     "Geografia"
   ]
 }
