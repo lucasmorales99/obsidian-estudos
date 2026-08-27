@@ -1,3 +1,4 @@
+#português
 - **Oxítonas** 
 	- A sílaba tônica fica no final da palavra.
 	- Exemplos sem acento: **bambu**, **uruçu**, **ruim**, **comer**.
@@ -29,3 +30,6 @@
 		- Exemplo: **feiura**, **baiuca**.
 	- **Macete para memorizar**
 		- Uma forma clássica de lembrar as principais terminações de paroxítonas que levam acento é a palavra **ROUUXINOL** (reunindo as letras _R, O-N-S, U-S, X, I, N, O-M, L_).
+
+- **Proparoxitonas**
+	- 

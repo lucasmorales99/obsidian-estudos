@@ -1,3 +1,4 @@
+#RacíocioLogico
 - Disjunção (V) **ou**
 	- A disjunção só é falsa se **todas** as proposições envolvidas forem falsas. Se pelo menos uma for verdadeira, o resultado total é verdadeiro.
 - Conjunção (^) **e**
