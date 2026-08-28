@@ -21,7 +21,7 @@ Completam o sentido de verbos ou substantivos/ adjetivos que não têm sentido c
 	 Completa um verbo transitivo indireto com preposição obrigatória.
 		- ex: Ela gosta **de música.**
 - **[[Complemento Nominal]]** (Recebe, Paciente, Passivo)
-	 Completa o sentido de um substantivo abstrato, adjetivo ou advérbio(**sempre [preposicionado](Morfologia)**)
+	 Completa o sentido de um substantivo abstrato, adjetivo ou advérbio(**sempre [preposicionado](Morfologia.md)**)
 		- ex: Ele tem orgulho **do filho.**
 - **Predicativo (do Sujeito ou Objeto)**
 	 Atribui uma qualidade ou estado temporário/permanente.

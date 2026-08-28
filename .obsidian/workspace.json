@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Tempo Verbal.md",
+                "file": "Português/Orações Subordinadas/Orações Subordinadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tempo Verbal"
+              "title": "Orações Subordinadas"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "right": {
     "id": "f7299ca4dff08c5b",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Português/Tempo Verbal.md",
+                "file": "Português/Orações Subordinadas/Orações Subordinadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Português/Tempo Verbal.md",
+                "file": "Português/Orações Subordinadas/Orações Subordinadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Português/Tempo Verbal.md",
+                "file": "Português/Orações Subordinadas/Orações Subordinadas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,13 +190,27 @@
   },
   "active": "8dbaabd55c5c88bd",
   "lastOpenFiles": [
-    "Português/Modos Verbais.md",
-    "Português/Tempo Verbal.md",
-    "Português/Formas Nominais Verbais.md",
+    "Português/Verbos/Modos Verbais.md",
+    "Português/Orações Subordinadas/Orações Subordinadas.md",
+    "Português/Verbos/Tempo Verbal.md",
+    "Português/Sintaxe/Sintaxe.md",
+    "Português/Sintaxe/Complemento Nominal.md",
+    "Português/Morfologia/Morfologia.md",
+    "Português/Orações Subordinadas/Oração subordinada adverbial consecutiva.md",
+    "Português/Orações Subordinadas",
+    "Português/Verbos/Verbo Ser.md",
     "Português/Acentuação Gráfica.md",
+    "Português/Formas Nominais Verbais.md",
+    "Português/Morfologia",
+    "Português/Sintaxe",
+    "Português/Verbos",
+    "Português/Verbos/Verbo Anexar.md",
+    "Português/Verbos/Verbo Existir.md",
+    "Português/Verbos/Verbo Haver.md",
+    "Português/Sintaxe/Adjunto Adnominal.md",
+    "Geografia/Revolução Verde.md",
     "Raciocínio Lógico/Tabela Verdade.md",
     "Geografia/Planeta terra.md",
-    "Português/Verbo Anexar.md",
     "2026-08-27.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
