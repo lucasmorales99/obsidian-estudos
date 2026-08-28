@@ -1,8 +1,10 @@
 #Geografia
 **solstício** -> quando o dia é maior que a noite -> uma eta da rotação da terra
-- **Solstício de Verão:** Ocorre quando um dos hemisférios está mais inclinado para o Sol. O dia é o mais longo do ano e a noite é a mais curta.
+- **Solstício de Verão:**
+	Ocorre quando um dos hemisférios está mais inclinado para o Sol. O dia é o mais longo do ano e a noite é a mais curta.
 
-- **Solstício de Inverno:** Ocorre no hemisfério oposto ao mesmo tempo. O dia é o mais curto do ano e a noite é a mais longa.
+- **Solstício de Inverno:** 
+	Ocorre no hemisfério oposto ao mesmo tempo. O dia é o mais curto do ano e a noite é a mais longa.
 
 
 **Orientação e Coordenadas Geográficas**

@@ -1,5 +1,6 @@
 #português 
 [[Modos Verbais]]
+[[Morfologia#verbo|Verbo]]
 
 **Infinitivo**:
 	O verbo em seu estado natural (terminações em -**ar**, -**er**, -**ir**). 

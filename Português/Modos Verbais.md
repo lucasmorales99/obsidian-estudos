@@ -1,4 +1,5 @@
 #português 
+[[Morfologia|Verbo]]
 
 **Indicativo** (CF)
 - Exprime uma certeza ou fato real.
