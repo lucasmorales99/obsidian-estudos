@@ -92,7 +92,10 @@ EXERCÍCIOS
 ***quando for substantivos abstratos** 
 				==-agente(pratica) -> AD.A==
 				==-paciente(recebe) -> C.N==
-				
+**quando for substantivo concreto**
+		-Ad.A -> não é o nome
+		-Aposto -> nome
+		
 - **As** ==terras== foram desapropriadas pelo Governo.
 	 **As terras** -> sujeito
 	 **terras** -> núcleo
@@ -100,18 +103,15 @@ EXERCÍCIOS
 	 foram -> auxiliar
 	 desapropriadas -> particípio
 	 pelo governo -> Agente da passiva
-
 - **Sua** ==dedicação== aos idosos comoveu os moradores.
 	 **Sua dedicação aos idosos** -> sujeito
 	 **dedicação** -> substantivo **abstrato** que vem do verbo dedicar
 	 **dedicação** -> núcleo
 	 **Sua** -> *pronome possesivo adjetivo pq ele acompanha substantivo(dedicação)
-
 - **Cruéis** ==marinheiros== navegam este mar.
 	 **cruéis marinheiros** -> sujeito
 	 **marinheiros** -> núcleo
 	 **cruéis** -> *adjetivo dentro do sujeito e ao lado do núcleo sempre vai ser adjunto adnominal
-
 - **Aqueles** ==funcionários== foram promovidos pela empresa.
 	 **aqueles funcionários** -> sujeito
 	 **funcionários** -> núcleo
@@ -119,17 +119,46 @@ EXERCÍCIOS
 	 foram -> auxiliar
 	 promovidas -> particípio
 	 pela empresa -> agente da passiva
-
 - Pode haver **muitas** ==leis==. 
 	 **haver** -> **verbo no sentido de existir**
 	 **Pode** -> na 3° pessoa
 	 *onde isso ocasiona que temos uma oração sem sujeito ou sujeito inexistente
 	 **muitas** -> pronome indefinido adjetivo
 	 **leis** -> substantivo
-
-- O ar **do campo** é saudável.
-- Todas as tardes, visitávamos os museus **da cidade**.
-- O clima **de Cabo Frio** é excepcional.
-- As janelas **da escola** estavam sujas.
-- As ruas **de Copacabana** estavam cheias de foliões.
-- A resposta **ao aluno** não foi convincente.
+- O ==ar== **do campo** é saudável.
+	 **do campo** -> locução adjetiva na função de Ad.Adnominal
+	 **ar** -> substantivo concreto
+- Todas as tardes, visitávamos os ==museus== **da cidade**.
+	 museus -> substantivo concreto
+	 cidade é o nome dos museus ? caso não seja é adn(aa)
+	 da cidade -> ad.a de locução adjetiva
+- O ==clima== **de Cabo Frio** é excepcional.
+	 o clima ->substantivo concreto
+	 obs. o clima de qualquer lugar sempre vai ser adn
+	 de cabo frio é o nome do clima ? não, logo é adn
+	 de Cabo frio é adn.a de locução adjetiva
+- As ==janelas== **da escola** estavam sujas.
+	 janelas -> substantivo concreto
+	 da escola é o nome das janelas ? não, logo é adn
+	 da escola -> adn locução adjetiva.
+- As ==ruas== **de Copacabana** estavam cheias de foliões.
+	 ruas -> subs. concreto
+	 Copacabana é o nome das ruas ?não, logo é adn
+	 de Copacabana -> 
+- A ==resposta== **do aluno** não foi convincente.
+	 resposta -> substantivo abstrato
+	 do aluno recebe a resposta ou pratica a resposta? pratica, logo adn
+	 do aluno -> adn.a 
+- As ==críticas== **do candidato** prejudicaram sua campanha.
+	 críticas -> subs. abstrato
+	 do canditado recebe a critica ou pratica? pratica, logo é adn
+- O ==clima== **de Salvador** é ótimo para as férias de verão.
+	 clima -> substantivo concreto
+	 de salvador é o nome do clima? não, logo é adn
+	 se salvador -> adn de locução adjetiva
+- O ataque **de tubarões** está causando mortes no Brasil.
+- A defesa **da pátria** é muito eficaz.
+- Tinha grande amor **à humanidade**.
+- Ele é rico **em virtudes**.
+- Tenho necessidade **de mantimentos**.
+- Sou fiel **a meus princípios**.

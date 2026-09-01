@@ -42,3 +42,16 @@ EXERCÍCIOS
 	 alunos -> sujeito da oração
 	 necessidade é um substantivo abstrato 
 	 ex como: **tem certeza disso**, **tem necessidade disso**
+- A ==resposta== **ao aluno** não foi convincente.
+	 resposta -> substantivo abstrato
+	 o aluno deu a resposta ou recebeu a resposta ? recebeu, logo é c.n
+	 ao aluno -> complemento nominal
+- As ==críticas== **ao candidato** prejudicaram sua campanha.
+	 **críticas** -> subs. abstrato
+	 o candidato recebe a critica ou ele pratica? recebe, logo c.n
+- O ==resgate== **dos sobreviventes** foi cansativo e angustiante.
+	 resgate -> subs. abstrato
+	 dos sobrevicentes recebe o resgate ou ele praticam o resgate ? recebe, logo é c.n
+- A ==construção== **dos estádios** para a Copa do mundo trará alguns prejuízos para os cofres públicos.
+	 construção -> subs. abstrato
+	 dos estadio pratica a contrução ou recebe a construção ?recebo, logo cn
