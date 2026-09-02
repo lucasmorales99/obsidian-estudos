@@ -26,7 +26,7 @@
 - **Advérbio**
 	 Modifica um verbo, um adjetivo ou outro advérbio, indicando circunstância(**tempo, lugar, modo, intensidade,** etc...).
 		ex: trabalhou **muito**, chegou **ontem**, respondeu **calmamente**.
-- **Preposição**
+- [[Preposição|Preposição]]
 	 Liga duas palavras, estabelecendo uma relação de sentido e dependência entre elas.
 		**de, para, com, em, por**
 		ex: Café **com** leite
