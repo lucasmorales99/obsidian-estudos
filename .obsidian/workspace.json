@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Acentuação Gráfica.md",
+                "file": "Dir.Adm/Direito Administrativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acentuação Gráfica"
+              "title": "Direito Administrativo"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 212.5
   },
   "right": {
     "id": "f7299ca4dff08c5b",
@@ -188,16 +188,38 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7592d787aeea9939",
+  "active": "8dbaabd55c5c88bd",
   "lastOpenFiles": [
+    "Português/Verbos/Vozes Verbais.md",
+    "Dir.Adm/Introdução e Princípios/Sem título.md",
+    "Dir.Adm/Direito Administrativo.md",
+    "Dir.Adm/Introdução e Princípios",
+    "T.I/Lógicas e Estruturas de Dados/Operadores e Expressões.md",
+    "T.I/Lógicas e Estruturas de Dados/Tipos de dados.md",
+    "T.I/Lógicas e Estruturas de Dados/Variáveis.md",
+    "Dir.Adm",
+    "T.I/Lógicas e Estruturas de Dados/Constantes.md",
+    "T.I/Lógicas e Estruturas de Dados/FIFO.md",
+    "T.I/Arquitetura de Software/Arquitetura de Software.md",
+    "T.I/Arquitetura de Software/SOAP.md",
+    "T.I/Arquitetura de Software",
+    "T.I/Governança/COBIT 5.md",
+    "T.I/Lógicas e Estruturas de Dados",
+    "T.I/JAVA/Tutorial.md",
+    "T.I/JS",
+    "T.I/PYTHON",
+    "T.I/JAVA",
+    "T.I/Gestão",
+    "Raciocínio Lógico/Logíca/Proposições Lógicas.md",
+    "Português/Palavra/Holística.md",
+    "Português/Palavra",
+    "Português/Acentuação Gráfica.md",
+    "T.I/Governança",
     "Português/Formas Nominais Verbais.md",
     "Raciocínio Lógico/Logíca/Lógica de predicados.md",
-    "Raciocínio Lógico/Logíca",
     "Raciocínio Lógico/Tabela Verdade.md",
     "T.I/Banco de Dados/DDL.md",
     "Raciocínio Lógico/Geometria/Polígonos.md",
-    "T.I/Banco de Dados",
-    "T.I",
     "Raciocínio Lógico/Geometria/Losango.md",
     "Raciocínio Lógico/Geometria/Círculo.md",
     "Raciocínio Lógico/Geometria/Retângulo.md",
@@ -210,31 +232,10 @@
     "Raciocínio Lógico/Geometria/Pasted image 20260831083928.png",
     "Geografia/Pasted image 20260826151752.png",
     "Geografia/Pasted image 20260826152611.png",
-    "Português/Orações Subordinadas/Orações Subordinadas.md",
-    "Raciocínio Lógico/Geometria",
-    "Português/Verbos/Modos Verbais.md",
-    "Português/Verbos/Tempo Verbal.md",
-    "Português/Sintaxe/Sintaxe.md",
-    "Português/Sintaxe/Complemento Nominal.md",
-    "Português/Morfologia/Morfologia.md",
-    "Português/Orações Subordinadas/Oração subordinada adverbial consecutiva.md",
-    "Português/Orações Subordinadas",
-    "Português/Verbos/Verbo Ser.md",
-    "Português/Acentuação Gráfica.md",
-    "Português/Morfologia",
-    "Português/Sintaxe",
-    "Português/Verbos",
-    "Português/Verbos/Verbo Anexar.md",
-    "Português/Verbos/Verbo Existir.md",
-    "Português/Verbos/Verbo Haver.md",
-    "Português/Sintaxe/Adjunto Adnominal.md",
-    "Geografia/Revolução Verde.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Geografia/Pasted image 20260826164007.png",
-    "Raciocínio Lógico",
     "Geografia/Pasted image 20260826152655.png",
-    "Geografia/Pasted image 20260826152439.png",
-    "Português"
+    "Geografia/Pasted image 20260826152439.png"
   ]
 }
