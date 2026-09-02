@@ -74,4 +74,70 @@ Exercícios:
 - As mudanças estão sendo avaliadas pelos diretores.
 - O terreno tinha sido invadido pelo mato.
 - Os boxeadores encaravam-se friamente.
-- 
+- O policial prendeu um cidadão inocente.
+- Um cidadão inocente foi preso pela polícia.
+- Pela fria madrugada, ouvia-se ainda o estridente cantar das aves noturnas.
+- Rita olhou-se no espelho
+- Os namorados se abraçaram emocionados.
+- O desfile do fim de ano daquela loja foi comentado positivamente pela imprensa local.
+- Entreolharam-se agressivamente os dois competidores.
+- A estranha criatura, na sombra projetada no lago, via-se imensa, monstruosa, assustadora.
+- Já não se veem locomotivas nas estações das cidades.
+- Os escravos eram maltratados por seus senhores.
+- Marginais, por pura maldade, vêm aterrorizando a população das metrópoles.
+- Com a cestinha de doces no braço, Chapeuzinho ia cantando pela estrada afora.
+- Aspira-se a elevados cargos neste setor.
+- Assiste-se a filmes maravilhosos nesta sala de cinema.
+- As ruas serão enfeitadas.
+- Pedro trancou-se no quarto sozinho.
+- Fui recebido com festa.
+- Este quadro foi dependurado por quem?
+- Quem dependurou este quadro?
+- A menina penteou-se rapidamente.
+- Documentos inúteis devem ser queimados em praça pública.
+- Os dois pretendentes insultaram-se.
+- Foi anunciado ontem o aumento do álcool.
+- Anunciaram ontem o aumento do álcool.
+- Anunciou-se ontem o aumento do álcool.
+- Cumprimentamo-nos cordialmente.
+- A cidade estava sitiada pelo exército romano.
+- Aquela cidade era povoada de milicianos.
+- Serão feitos novos investimentos.
+- Far-se-ão novos investimentos.
+- Sacrifiquei-me por ele.
+- Não se celebram mais as datas cívicas nesta cidade.
+- Ela se vestiu apressadamente.
+- Confirmou-se, assim, a morte de Lopes aos 51 anos.
+- A decisão será tomada após a reunião.
+- Aquele escritor fez-se por si mesmo.
+- Não se incentivam aqui no Rio de Janeiro as pequenas empresas.
+- Inúmeras cartas pelos jesuítas foram deixadas.
+- Aquelas orquídeas são apreciadas por colecionadores.
+- Apenas revistas especializadas publicaram o polêmico assunto.
+- Formaram-se cordões de isolamento nas imediações do acidente.
+- As casas da pequena cidade foram destruídas pelo furacão.
+- As escolas vizinhas participaram da semana cultural da cidade.
+- O atleta foi estrondosamente aclamado.
+- Fizeram-se apenas os reparos mais urgentes.
+- A fã torcia pelo sucesso do lindo cantor.
+- O público presente tinha respondido friamente à saudação do palestrante no início do evento.
+- A saudação do palestrante foi friamente recebida pelo público presente no início do evento.
+- A comunidade organizou uma grande festa junina.
+- O público e o palestrante saudaram-se friamente.
+- O público presente havia aplaudido friamente o palestrante no início do evento.
+- Desta vez, o pequeno abriria a vidraça da janela vagarosamente.
+- A vidraça da janela seria vagarosamente aberta pelo pequeno deste vez.
+- Os conceitos sobre o papel da mulher no mercado de trabalho precisam ser revistos pelos políticos e pelos empresários.
+- Não se discutiu o projeto nacional do município.
+- A demissão foi considerada injusta por todos.
+- Vocês se dão pouca importância nessa tarefa.
+- Regam-se as plantas de manhã cedo.
+- "Sob o luar, abraçaram-se vento e rosa."
+- "Suporta-se com paciência a cólica do próximo."
+- "Ela fora criticada por um parente."
+- Errando, prejudicamo-nos a nós mesmos.
+- Os pais contemplam-se nos filhos.
+- Cumprimentaram-se e abraçaram-se com alegria e moderação.
+- Amam-se como irmãos.
+- A presa estava sendo devorada pelo leão.
+- O leão estava devorando a presa.
