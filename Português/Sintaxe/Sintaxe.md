@@ -1,4 +1,4 @@
-#português 
+#português #sintaxe 
 *Função Sintática*
 
 **Funções Sintáticas**

@@ -1,4 +1,4 @@
-#português [[Sintaxe]]
+#português [[Sintaxe]] #sintaxe 
 
 O **adjunto adnominal** é o termo da oração que se junta a um **substantivo** para caracterizá-lo, determiná-lo, qualificá-lo ou indicar sua posse/quantidade.
 

@@ -1,4 +1,4 @@
-#português  [[Sintaxe]]
+#português  [[Sintaxe]] #sintaxe 
 
 O **complemento nominal** é o termo da oração que completa o sentido de um **nome** (que pode ser um **substantivo abstrato**, um **adjetivo** ou um **advérbio**) que não tem significado completo sozinho.
 
