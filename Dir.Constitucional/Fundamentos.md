@@ -24,7 +24,7 @@ A República Federativa do Brasil é formada pela união indissolúvel dos Estad
 
 ### 2. Separação dos Poderes (Art. 2º)
 
-- São Poderes da União, **independentes e harmônicos entre si**:
+- ==São Poderes da **União**==, **independentes e harmônicos entre si**:
     
     - **Poder Executivo**;
         
@@ -83,3 +83,10 @@ Regem a atuação da República Federativa do Brasil no âmbito internacional:
 |**Art. 2º**|Separação dos Poderes|**Executivo, Legislativo e Judiciário** (Harmonia e Independência)|
 |**Art. 3º**|Objetivos Fundamentais|Inicia por **VERBOS** no infinitivo (_Construir, Garantir, Erradicar, Promover_)|
 |**Art. 4º**|Relações Internacionais|Princípios de **política externa** e foco na América Latina.|
+
+
+obs.: 
+- municipio não tem poder judiciario, 
+- o poder é da união
+- conceitos estudar mais sobre 
+	- 

@@ -32,4 +32,15 @@
 		- Uma forma clássica de lembrar as principais terminações de paroxítonas que levam acento é a palavra **ROUUXINOL** (reunindo as letras _R, O-N-S, U-S, X, I, N, O-M, L_).
 
 - **Proparoxitonas**
-	- 
+
+
+
+
+
+
+| **Forma**      | **Função**                                            | **Exemplo**                                          |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- |
+| **a**          | Preposição, artigo definido ou pronome                | Vou **a** São Paulo. / **A** casa é bonita.          |
+| **há**         | Verbo _haver_ (tempo decorrido ou sentido de existir) | Cheguei **há** dez minutos. / **Há** livros na mesa. |
+| **à**          | Crase (junção da preposição _a_ + artigo _a_)         | Fui **à** praia.                                     |
+| **ha** / **á** | **Não existem** na língua portuguesa                  | Não devem ser usadas em nenhum contexto.             |
