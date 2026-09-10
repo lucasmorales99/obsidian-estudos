@@ -161,3 +161,10 @@ https://www.conjugacao.com.br/verbo-haver/
 |**Nós**|hajamo-nos|não nos hajamos|havermo-nos|
 |**Vós**|havei-vos|não vos hajais|haverdes-vos|
 |**Vocês / Eles**|hajam-se|não se hajam|haverem-se|
+
+
+
+
+Ainda "-------" pessoas que acreditam nisso.
+- deve haver 
+- devem haver 
