@@ -152,4 +152,5 @@ GRANT perfil_financeiro TO joao_financeiro, maria_financeiro;
 | **DQL**          | Data Query Language          | `SELECT`                              | Consultas / Leitura    |
 | **DCL**          | Data Control Language        | `GRANT`, `REVOKE`                     | Permissões / Segurança |
 | **TCL**          | Transaction Control Language | `COMMIT`, `ROLLBACK`, `SAVEPOINT`     | Controle de Transações |
+|                  |                              |                                       |                        |
 
