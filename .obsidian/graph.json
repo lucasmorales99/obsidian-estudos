@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "direitoConstitucional",
+      "color": {
+        "a": 1,
+        "rgb": 8871126
+      }
+    },
+    {
+      "query": "direitoAdm",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444444,
+  "scale": 0.1975308641975308,
   "close": true
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e5beee88e69758",
+        "id": "d805099b6d3d9092",
         "type": "tabs",
         "children": [
           {
-            "id": "8dbaabd55c5c88bd",
+            "id": "d01e440a167794bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Verbos/Concordância Verbal.md",
+                "file": "Dir.Constitucional/Dir e Garantias Fundamentais/Direitos Sociais (Art. 6º ao 11).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concordância Verbal"
+              "title": "Direitos Sociais (Art. 6º ao 11)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#direitoAdm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
+    "width": 206.5,
     "collapsed": true
   },
   "right": {
@@ -189,44 +189,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8dbaabd55c5c88bd",
+  "active": "d01e440a167794bd",
   "lastOpenFiles": [
-    "Português/Verbos/Verbo/Fazer.md",
-    "Português/Verbos/Concordância Verbal.md",
-    "Português/Verbos/Verbo/Ter.md",
-    "Português/Verbos/Verbo/Trazer.md",
-    "Português/Verbos/Verbo/Haver.md",
-    "Raciocínio Lógico/Logíca/Razoes/Razão.md",
-    "Raciocínio Lógico/Logíca/Razões e Proporções.md",
-    "T.I/Arquitetura de Software/APIs/Resumo.md",
-    "Raciocínio Lógico/Logíca/Razoes",
-    "T.I/Banco de Dados/TCL.md",
-    "T.I/Arquitetura de Software/APIs",
-    "T.I/Banco de Dados/Modelagem.md",
-    "T.I/Banco de Dados/DML.md",
-    "T.I/Banco de Dados/DCL.md",
-    "T.I/Banco de Dados/DDL.md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/Direitos e deveres Individuais e coletivos (Art. 5º).md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/1- GUIA.md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/Partidos Politicos (Autonomia e Liberdade).md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/Direitos Politicos (Alistamento e Elegibilidade).md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/Nacionalidade (Natos e Naturalizados).md",
+    "Dir.Constitucional/Dir e Garantias Fundamentais/Direitos Sociais (Art. 6º ao 11).md",
+    "T.I/Banco de Dados/Teoria e Linguagem/DDL-DML-DCL-TCL/DCL.md",
     "Dir.Adm/Atos Administrativos.md",
-    "Dir.Adm/Atos/Especies (Classificação).md",
-    "Dir.Adm/Atos/Atos Individuais.md",
-    "Dir.Adm/Atos/Atos Adm Enunciativos.md",
-    "Dir.Adm/Organização administrativa.md",
-    "Dir.Adm/Teoria Motivos Determinantes.md",
-    "Dir.Adm/Atos/Revogação.md",
-    "Dir.Adm/Atos/Imperatividade.md",
+    "Arquitetura de Software/Infraestrutura e DevOps/Cloud Native e Conteinerizacao/Sem título.md",
+    "Dir.Constitucional/Sem título/Sem título",
+    "Dir.Constitucional/Dir e Garantias Fundamentais",
+    "T.I/Arquitetura de Software/Componentização de Software.md",
+    "Arquitetura de Software/Infraestrutura e DevOps/Servidores de Aplicacoes",
+    "Arquitetura de Software/Infraestrutura e DevOps/GIT",
+    "Arquitetura de Software/Infraestrutura e DevOps/CI-CD",
+    "Arquitetura de Software/Infraestrutura e DevOps/Cloud Native e Conteinerizacao",
+    "Arquitetura de Software/Infraestrutura e DevOps",
+    "Arquitetura de Software",
+    "T.I/Fora do concurso",
+    "T.I/Segurança e Protocolos",
+    "T.I/Arquitetura de Software/Comunicacao e Integracao/APIs Rest e JSON.md",
+    "T.I/Arquitetura de Software/Padroes Arquiterurais/Arquitetura Orientada a Eventos(EDA).md",
+    "T.I/Banco de Dados/Banco de Dados.md",
+    "T.I/Arquitetura de Software/Sem título.md",
+    "T.I/Banco de Dados/Teoria e Linguagem/Normalizacao (1FN A 5FN).md",
+    "T.I/Banco de Dados/Teoria e Linguagem/SQL ANSI.md",
+    "T.I/Banco de Dados/Arquitetura e Modelagem/Modelagem.md",
     "Dir.Adm/Atos/Moções.md",
-    "Dir.Adm/Atos/Hely Lopes Meirelles.md",
-    "Dir.Adm/Atos/Conveniência e Oportunidade.md",
-    "Dir.Adm/Atos/Discricionário.md",
+    "Dir.Adm/Atos/Revogação.md",
+    "Dir.Adm/Direito Administrativo.md",
     "Dir.Adm/Atos/Atributos.md",
-    "Português/Grámatica",
-    "Português/Verbos/Verbo",
-    "Dir.Adm/Introdução e Princípios",
-    "Dir.Adm",
-    "T.I/Arquitetura de Software",
-    "T.I/Lógicas e Estruturas de Dados",
-    "T.I/JS",
-    "T.I/PYTHON",
+    "Dir.Adm/Atos/Atos Individuais.md",
+    "Dir.Adm/Atos/Hely Lopes Meirelles.md",
+    "Português/Verbos/Concordância Verbal.md",
+    "Português/Verbos/Verbo/Fazer.md",
+    "Português/Verbos/Verbo/Ter.md",
     "Raciocínio Lógico/Geometria/Pasted image 20260831084115.png",
     "Raciocínio Lógico/Geometria/Pasted image 20260831083550.png",
     "Raciocínio Lógico/Geometria/Pasted image 20260831083747.png",
