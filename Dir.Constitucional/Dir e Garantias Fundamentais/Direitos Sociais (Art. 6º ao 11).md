@@ -72,12 +72,12 @@ O Art. 7º traz os direitos dos trabalhadores urbanos e rurais. Veja as regras n
     - **Proibido:** **Qualquer trabalho** a menores de **16 anos**, **EXCETO** na condição de **aprendiz, a partir dos 14 anos**.
         
 
-|**Idade**|**Condição Permitida**|
-|---|---|
-|**Menos de 14 anos**|Proibido qualquer trabalho.|
-|**14 a 15 anos**|Apenas como **Aprendiz**.|
-|**16 a 17 anos**|Trabalho geral (desde que **não** seja noturno, perigoso ou insalubre).|
-|**18 anos ou mais**|Livre para qualquer tipo de trabalho (inclusive noturno/insalubre).|
+| **Idade**            | **Condição Permitida**                                                  |
+| -------------------- | ----------------------------------------------------------------------- |
+| **Menos de 14 anos** | Proibido qualquer trabalho.                                             |
+| **14 a 15 anos**     | Apenas como **Aprendiz**.                                               |
+| **16 a 17 anos**     | Trabalho geral (desde que **não** seja noturno, perigoso ou insalubre). |
+| **18 anos ou mais**  | Livre para qualquer tipo de trabalho (inclusive noturno/insalubre).     |
 
 ## 3. Direitos Coletivos dos Trabalhadores (Arts. 8º ao 11)
 

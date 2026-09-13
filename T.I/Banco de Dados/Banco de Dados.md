@@ -59,3 +59,19 @@ O **ORM** faz a ponte entre o paradigma orientado a objetos (código) e o modelo
 - **Mapeamento Objeto-Relacional:** Mapeia a lógica de classes para estruturas de tabela.
     
 - **Frameworks de Persistência:** Gerenciam a gravação e leitura de objetos na base de dados de forma automatizada.
+
+
+
+
+
+**Em um Sistema Gerenciador de Banco de Dados (SGBD), a propriedade que garante que uma transação, uma vez confirmada (commit), terá seus resultados permanentemente gravados no banco de dados, mesmo em caso de falha do sistema, é conhecida como**:
+- Atomicidade.
+- Consistência.
+- Isolamento.
+- Durabilidade.
+- Serialização.
+
+		- A Durabilidade é a propriedade ACID que garante que os dados confirmados em uma transação persistem, mesmo em caso de falhas no sistema. As outras propriedades referem-se a Atomicidade (tudo ou nada), Consistência (transição de estado válido) e Isolamento (transações independentes).
+
+
+dfgh

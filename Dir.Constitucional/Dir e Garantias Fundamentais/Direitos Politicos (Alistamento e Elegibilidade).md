@@ -1,121 +1,124 @@
 #direitoConstitucional #DirGarFundamentos
 
 
-## 1. Espécies de Nacionalidade
+Nesta aula sobre **Direitos Políticos (Arts. 14 a 16 da CF/88)**, vamos focar estritamente no que as bancas examinam: quem pode votar, quem pode ser votado, as idades mínimas, as regras de inelegibilidade e a perda ou suspensão desses direitos.
 
-A nacionalidade é o vínculo jurídico-político entre o indivíduo e o Estado. Ela se divide em duas espécies:
+# 📚 AULA FOCADA: DIREITOS POLÍTICOS (ARTS. 14 A 16 DA CF/88)
+
+## 1. Exercício da Soberania Popular (Art. 14)
+
+A soberania popular é exercida pelo **sufrágio universal** e pelo **voto direto e secreto**, com valor igual para todos. Ela se manifesta de duas formas:
+
+### A) Formas de Democracia Direta
+
+1. **Plebiscito:** Consulta popular convocada **ANTES** de a lei ou ato normativo ser criado. _(O povo aprova ou rejeita a ideia antes)._
+    
+2. **Referendo:** Consulta popular convocada **DEPOIS** que a lei ou ato normativo já foi elaborado. _(O povo confirma ou rejeita o texto já feito)._
+    
+3. **Iniciativa Popular:** Projeto de lei apresentado diretamente pelos cidadãos.
+    
+
+## 2. Capacidade Eleitoral Ativa (Alistamento e Voto)
+
+Refere-se ao direito de **votar**.
 
 ```
 ┌───────────────────────────────────────────────────────────┐
-│                      NACIONALIDADE                        │
-├──────────────────────────┬────────────────────────────────┤
-│ Originária (Primária)    │ Brasileiro NATO (por nascimento)│
-│ Adquirida (Secundária)   │ Brasileiro NATURALIZADO (lei) │
-└──────────────────────────┴────────────────────────────────┘
+│                    ALISTAMENTO E VOTO                     │
+├──────────────────┬────────────────────────────────────────┤
+│ Obrigatório      │ Entre 18 e 70 anos                    │
+│ Facultativo      │ • 16 a 17 anos                         │
+│                  │ • Maiores de 70 anos                   │
+│                  │ • Analfabetos                          │
+│ Inalistáveis     │ • Estrangeiros                         │
+│ (Proibidos)      │ • Conscritos (serviço militar)         │
+└──────────────────┴────────────────────────────────└───────┘
 ```
 
-## 2. Brasileiros Natos (Art. 12, I)
-
-O Brasil adota dois critérios principais: **Jus Soli** (solo) e **Jus Sanguinis** (sangue).
-
-### A) Critério Territorial (_Jus Soli_) — Regra Geral
-
-- **Regra:** Nascido no território brasileiro = **Brasileiro Nato**.
-    
-- **Exceção:** Nascido no Brasil, filho de pais estrangeiros, **SE ambos ou um deles estiver a serviço de seu país de origem**.
-    
-- **Exemplo de Prova:**
-    
-    - Um casal de alemães em férias no Rio de Janeiro tem um filho. A criança é **brasileira nata** (pois os pais não estavam a serviço da Alemanha).
-        
-    - Um casal de diplomáticas franceses a serviço da França tem um filho no DF. A criança **NÃO é brasileira** (cai na exceção).
-        
-
-### B) Critério Funcional (_Jus Sanguinis_ + Serviço do Brasil)
-
-- Nascido no estrangeiro, filho de pai brasileiro OU mãe brasileira, desde que qualquer deles esteja **a serviço da República Federativa do Brasil**.
-    
-- **Exemplo:** Um diplomata brasileiro a serviço do Brasil na Itália tem um filho lá. O filho é **brasileiro nato**.
+- **Atenção:** Os **inalistáveis** não podem se alistar nem votar. Por consequência, também são inelegíveis (não podem ser votados).
     
 
-### C) Critério da Residência + Opção de Nacionalidade
+## 3. Capacidade Eleitoral Passiva (Elegibilidade)
 
-- Nascido no estrangeiro, filho de pai ou mãe brasileira, que:
+Refere-se ao direito de **ser votado**. Requisitos exigidos pela Constituição:
+
+1. Nacionalidade brasileira;
     
-    1. Seja registrado em repartição brasileira competente (Consulado/Embaixada); **OU**
-        
-    2. Venha a residir no Brasil e opte, a qualquer tempo, **depois de atingida a maioridade**, pela nacionalidade brasileira.
-        
-- **Exemplo:** Filho de mãe brasileira nascido nos EUA (sem registro consular). Aos 20 anos, muda-se para o Brasil e faz a opção perante a Justiça Federal. Torna-se **brasileiro nato**.
+2. Pleno exercício dos direitos políticos;
     
-
-## 3. Brasileiros Naturalizados (Art. 12, II)
-
-É a nacionalidade derivada, adquirida por vontade própria mediante os critérios da lei:
-
-### A) Naturalização Ordinária (Países de Língua Portuguesa)
-
-- Requisitos: **1 ano ininterrupto** de residência no Brasil + **idoneidade moral**.
+3. Alistamento eleitoral;
     
-- **Aplica-se a:** Nativos de Portugal, Angola, Moçambique, Cabo Verde, etc.
+4. Domicílio eleitoral na circunscrição;
+    
+5. Filiação partidária;
+    
+6. **Alfabetização** (o analfabeto pode votar, mas **não** pode ser votado);
+    
+7. **Idade mínima (aferida na data da POSSE)**:
     
 
-### B) Naturalização Extraordinária (Qualquer Nacionalidade)
+| **Idade Mínima** | **Cargos**                                                                     |
+| ---------------- | ------------------------------------------------------------------------------ |
+| **35 anos**      | Presidente, Vice-Presidente e Senador                                          |
+| **30 anos**      | Governador e Vice-Governador                                                   |
+| **21 anos**      | Deputado (Federal, Estadual, Distrital), Prefeito, Vice-Prefeito e Juiz de Paz |
+| **18 anos**      | Vereador                                                                       |
 
-- Requisitos: Residência no Brasil há **mais de 15 anos ininterruptos** + **ausência de condenação penal**.
-    
-- **Atenção:** Cumpridos estes requisitos, o Estado é **obrigado** a conceder a naturalização (direito subjetivo).
-    
-
-## 4. Cargos Privativos de Brasileiro Nato (Art. 12, § 3º)
-
-A regra geral é que a lei não pode diferenciar natos de naturalizados. Porém, a **própria Constituição** estabelece exceções exclusivas para cargos de cúpula e segurança do Estado.
-
-### 💡 Mnemônico para Decorar: **MP3.COM**
-
-- **M:** **M**inistro do STF (Todos os 11 ministros).
-    
-- **P:** **P**residente e Vice-Presidente da República.
-    
-- **P:** **P**residente da Câmara dos Deputados.
-    
-- **P:** **P**residente do Senado Federal.
-    
-- **C:** Carreiras **C**iplomáticas (ex: Embaixador).
-    
-- **O:** **O**ficial das Forças Armadas (Marinha, Exército e Aeronáutica).
-    
-- **M:** **M**inistro de Estado da **Defesa**.
-    
-- **Pegadinha da Banca:** Dizem que "qualquer Deputado Federal" precisa ser nato. **Falso!** Apenas o **Presidente** da Câmara e o **Presidente** do Senado precisam ser natos (por estarem na linha de substituição do Presidente da República). Deputados e Senadores comuns podem ser naturalizados.
+- **Exemplo de Prova:** Um jovem de 17 anos se candidata a Vereador. No dia do pleito ele tem 17 anos, mas no dia da posse já terá feito 18 anos. Ele **pode** ser eleito, pois a idade mínima é exigida no ato da posse.
     
 
-## 5. Perda da Nacionalidade (Emenda Constitucional nº 131)
+## 4. Inelegibilidades (Art. 14, §§ 4º a 9º)
 
-Regra atualizada sobre quando o brasileiro perde a cidadania:
+### A) Inelegibilidade Reflexa ou Familiar (Art. 14, § 7º)
 
-A perda da nacionalidade brasileira **só ocorrerá** quando o brasileiro:
+São inelegíveis, no território de jurisdição do titular, o **cônjuge** e os **parentes consanguíneos ou afins, até o 2º grau** (ou por adoção) do Presidente, Governador ou Prefeito.
 
-1. Tiver cancelada sua naturalização por sentença judicial, em virtude de **fraude relacionada ao processo de naturalização** ou de **atentado contra a ordem constitucional e o estado democrático**;
+- **Exceção:** Se o parente já for titular de mandato eletivo e candidato à reeleição.
     
-2. Fizer **pedido expresso de perda** da nacionalidade brasileira perante autoridade competente.
-    
-
-- **Importante:** A simples aquisição de outra nacionalidade (ex: dupla cidadania por nascimento ou casamento) **NÃO gera mais a perda automática** da nacionalidade brasileira!
+- **Exemplo:** O filho de um Prefeito em exercício **não pode** se candidatar a Vereador no mesmo município desse Prefeito. Porém, se esse filho já for Vereador no município, ele **pode** concorrer à reeleição.
     
 
-## 6. Símbolos e Língua Oficial (Art. 13)
+### B) Desincompatibilização para Outros Cargos (Art. 14, § 6º)
 
-- **Língua Oficial:** O português é o idioma oficial da República Federativa do Brasil.
+Para concorrer a **OUTROS** cargos, o Chefe do Poder Executivo (Presidente, Governador, Prefeito) deve renunciar ao mandato até **6 meses antes do pleito**.
+
+- **Atenção:** Para a **reeleição** no mesmo cargo, **NÃO** precisa renunciar!
     
-- **Símbolos Nacionais:**
+
+## 5. Perda e Suspensão dos Direitos Políticos (Art. 15)
+
+A Constituição proíbe expressamente a cassação de direitos políticos. A perda ou suspensão só ocorre nos seguintes casos:
+
+```
+┌───────────────────────────────────────────────────────────┐
+│              PERDA OU SUSPENSÃO DE DIREITOS               │
+├──────────────────┬────────────────────────────────────────┤
+│ Cancelamento da  │ Por sentença transitada em julgado     │
+│ naturalização    │                                        │
+├──────────────────┼────────────────────────────────────────┤
+│ Incapacidade     │ Incapacidade civil absoluta            │
+│ civil            │                                        │
+├──────────────────┼────────────────────────────────────────┤
+│ Condenação       │ Enquanto durarem os efeitos da         │
+│ criminal         │ sentença transitada em julgado │
+├──────────────────┼────────────────────────────────────────┤
+│ Recusa de        │ Escusa de consciência sem cumprir      │
+│ obrigação        │ prestação alternativa                  │
+├──────────────────┼────────────────────────────────────────┤
+│ Improbidade      │ Sanção prevista no Art. 37, § 4º│
+│ administrativa   │                                        │
+└──────────────────┴────────────────────────────────────────┘
+```
+
+- **Exemplo de Prova:** Um indivíduo foi condenado criminalmente em sentença transitada em julgado. Durante todo o período do cumprimento da pena, seus direitos políticos ficam **suspensos**. Consequentemente, ele perde o mandato se for parlamentar e fica impossibilitado de votar ou se candidatar.
     
-    1. A **Bandeira**;
-        
-    2. O **Hino**;
-        
-    3. As **Armas**;
-        
-    4. O **Selo** Nacionais.
-        
-- Estados, DF e Municípios podem ter símbolos próprios.
+
+## 📌 Resumo Rápido para Decorações de Prova
+
+- **Analfabeto:** Voto facultativo, mas é **inelegível**[cite: 1].
+    
+- **Estrangeiros e Conscritos:** Nem votam (inalistáveis), nem podem ser votados (inelegíveis).
+    
+- **Mnemônico da Idade Mínima:** **35 - 30 - 21 - 18** (Presidente/Senador $\rightarrow$ Governador $\rightarrow$ Deputado/Prefeito $\rightarrow$ Vereador)[cite: 1].
+    
+- **Cassação de direitos políticos:** **Proibida!** Ocorre apenas _perda_ ou _suspensão_.
