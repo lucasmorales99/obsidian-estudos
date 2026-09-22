@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/Certificacao Digital.md",
+                "file": "Português/4 - Coesao Textual/Tempos e modos verbais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificacao Digital"
+              "title": "Tempos e modos verbais"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7299ca4dff08c5b",
@@ -188,11 +189,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7592d787aeea9939",
+  "active": "d01e440a167794bd",
   "lastOpenFiles": [
+    "Português/4 - Coesao Textual/Referenciação, substituição e repetição.md",
+    "Português/4 - Coesao Textual/Tempos e modos verbais.md",
+    "Português/4 - Coesao Textual/Conectores e sequenciação.md",
+    "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/Certificacao Digital.md",
     "Segurana/Nocoes de Criptografia/Protocolos Criptograficos",
     "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/Assinatura Digital.md",
-    "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/Certificacao Digital.md",
     "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/ICP Brasil.md",
     "Segurana/Nocoes de Criptografia/Ferramentas e Infraestrutura/Hash.md",
     "Segurana/Nocoes de Criptografia/Sist Criptograficos/Assimetricos.md",
@@ -217,10 +221,6 @@
     "Segurana",
     "Dir.Adm/5 - Licitacoes/Principios/Impessoalidade.md",
     "Dir.Adm/5 - Licitacoes/Principios/Legalidade.md",
-    "Português/4 - Coesao Textual/Tempos e modos verbais.md",
-    "Dir.Adm/5 - Licitacoes/Contratacao direta/Inexigibilidade(Invalidade de competicao)",
-    "Português/4 - Coesao Textual/Referenciação, substituição e repetição.md",
-    "Português/4 - Coesao Textual/Conectores e sequenciação.md",
     "Arquitetura de Software/5 - Infraestrutura e DevOps/Servidores de Aplicações.md",
     "Arquitetura de Software/5 - Infraestrutura e DevOps/Gerência de configuração(git).md",
     "Arquitetura de Software/5 - Infraestrutura e DevOps/Cloud Native e Conteinerização(docker- k8s).md",
