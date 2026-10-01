@@ -135,3 +135,11 @@ Em um teste de paternidade executado no hospital Mãe de Deus, a decisão judici
 - Se um aluno foi aprovado em todas as disciplinas, então ele fará um curso de reforço.
 - **Comentário de IA:** A proposição original é 'Se não P, então Q'. Sua equivalência lógica é 'Se não Q, então P'. Aplicando à questão, 'não P' é 'não foi aprovado em todas as disciplinas' e 'Q' é 'fará curso de reforço'. A equivalência correta é 'Se não (fará curso de reforço), então (foi aprovado em todas as disciplinas)'.
 
+### 12
+***Considere a seguinte afirmação: Se os livros foram catalogados, então eles já foram distribuídos nas estantes. Uma negação lógica para a afirmação apresentada é
+- Os livros foram catalogados e não foram distribuídos nas estantes.
+- Os livros não foram catalogados e não foram distribuídos nas estantes.
+- Os livros foram catalogados ou foram distribuídos nas estantes.
+- Se os livros não foram catalogados, então eles não foram distribuídos nas estantes.
+- Se os livros não foram distribuídos nas estantes, então eles não foram catalogados.
+- **Comentário de IA:** A afirmacao e 'Se P, entao Q', onde P = 'Os livros foram catalogados' e Q = 'Eles ja foram distribuidos nas estantes'. A negacao logica de 'Se P, entao Q' e 'P e nao Q'. Portanto, a negacao e 'Os livros foram catalogados e nao foram distribuidos nas estantes'.
