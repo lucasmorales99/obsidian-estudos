@@ -1,3 +1,4 @@
+#dia
 Português -> verbo **fazer** quando inda tempo nunca vai ser conjugado sempre será "faz"
 
 - sobre concordancia
