@@ -7,3 +7,10 @@ Lógica->
 	- Prog OO
 	- Métodos de pesquisa 
 	- Hashing
+
+
+
+
+estudado por exercicios:
+- **Coesão referencial** ==é um mecanismo do texto que conecta partes diferentes ao substituir ou retomar um termo já dito para evitar repetições==. 
+- 
