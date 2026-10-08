@@ -12,4 +12,7 @@ Anotação
 
 - Há **muito** tempo que faço **muito** esforço para não haver **muito** barulho nas festas.
 
-- Preciso me esforçar
+- Preciso me esforçar **mais**.
+- Ela é **mais** esforçada do que eu.
+- Ela mora **mais** perto.
+
