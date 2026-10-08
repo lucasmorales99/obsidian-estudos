@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/5 - Estrutura Morfossintatica/Concordancia verbal e nominal/Concordancia Verbal.md",
+                "file": "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Lei de Morgan/guia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concordancia Verbal"
+              "title": "guia"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "f7299ca4dff08c5b",
@@ -191,12 +190,26 @@
   },
   "active": "04c5df909b5c89ab",
   "lastOpenFiles": [
-    "Português/5 - Estrutura Morfossintatica/Concordancia verbal e nominal/Concordancia Nominal.md",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Tabelas-verdades/guia.md",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Lei de Morgan/guia.md",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Equivalencias Logicas/guia.md",
+    "Anotações de estudo/10/07-10/anotações.md",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Equivalencias Logicas",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Tabelas-verdades",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial/Lei de Morgan",
+    "Raciocínio Lógico/5 - Lógica Proposicional e Sentencial",
+    "Anotações de estudo/10/06-10/06-10.md",
+    "Anotações de estudo/10/06-10",
+    "Anotações de estudo/10/07-10",
+    "Anotações de estudo/10/05-10/Anotações.md",
+    "Português/5 - Estrutura Morfossintatica/Sinal indicativo de crase/Crase.md",
+    "Português/5 - Estrutura Morfossintatica/Regência verbal e nominal/Regencia Nominal.md",
+    "Português/5 - Estrutura Morfossintatica/Regência verbal e nominal/Regencia verbal.md",
     "Português/5 - Estrutura Morfossintatica/Concordancia verbal e nominal/Concordancia Verbal.md",
+    "Português/5 - Estrutura Morfossintatica/Concordancia verbal e nominal/Concordancia Nominal.md",
     "Logica Prog/8 - Metodos e Algoritmo/Pesquisa/Guia.md",
     "Logica Prog/8 - Metodos e Algoritmo/Ordenacao/Guia.md",
     "Logica Prog/8 - Metodos e Algoritmo/Hashing/Guia.md",
-    "Anotações de estudo/10/05-10/Anotações.md",
     "Logica Prog/7 - Paradigmas de Programaca/Prog EStruturada/GUIA.md",
     "Dir.Constitucional/3 - Dir e Garantias Fundamentais/Partidos Politicos (Autonomia e Liberdade).md",
     "Dir.Constitucional/3 - Dir e Garantias Fundamentais/Nacionalidade (Natos e Naturalizados).md",
@@ -210,23 +223,8 @@
     "Dir.Constitucional/2 - Aplicabilidade das Normas/Normas Programaicas- Metas do Estado.md",
     "Dir.Constitucional/2 - Aplicabilidade das Normas/Eficacia Plena",
     "Dir.Constitucional/2 - Aplicabilidade das Normas/Eficacia Limitada- Depende de regulamentacaco.md",
-    "Dir.Constitucional/2 - Aplicabilidade das Normas/Eficacia Contida.md",
     "Dir.Constitucional/2 - Aplicabilidade das Normas",
-    "Dir.Adm/3 - Agentes Publicos/Vinculos/Funcao publica.md",
-    "Dir.Adm/3 - Agentes Publicos/Vinculos/Emprego Publico(CLT).md",
-    "Dir.Adm/3 - Agentes Publicos/Vinculos/Cargo  Publico (Estatutario).md",
-    "Dir.Adm/3 - Agentes Publicos/Disposicoes Constitucioinais/Proibicao de Acumulacao.md",
-    "Dir.Adm/3 - Agentes Publicos/Disposicoes Constitucioinais/Estabilidade(3 anos).md",
-    "Dir.Adm/3 - Agentes Publicos/Disposicoes Constitucioinais/Concurso Publico.md",
-    "Dir.Adm/3 - Agentes Publicos/Disposicoes Constitucioinais/Cargos em Comissao  (Livre Nomeacao).md",
     "Dir.Adm/3 - Agentes Publicos/Vinculos",
-    "Dir.Adm/3 - Agentes Publicos/Disposicoes Constitucioinais",
-    "Dir.Adm/3 - Agentes Publicos",
-    "Anotações de estudo/10/01-10/Exercicos feitos.md",
-    "Anotações de estudo/10/01-10",
-    "Anotações de estudo/10",
-    "Anotações de estudo/09/09-28",
-    "Anotações de estudo/09",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Raciocínio Lógico/4 - Algebra e Funções/Pasted image 20260916202502.png",
